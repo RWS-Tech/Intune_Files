@@ -1,0 +1,1 @@
+7-Zip is a file archiver with a high compression ratio for ZIP and GZIP formats, which is between 2 to 10% better than its peers, depending on the exact data tested. And 7-Zip boosts its very own 7z archive format that also offers a significantly higher compression ratio than its peers. up to 40% higher!
